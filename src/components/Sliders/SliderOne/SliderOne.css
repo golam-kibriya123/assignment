@@ -1,0 +1,36 @@
+.swiper {
+    width: 100%;
+    height: 84vh;
+}
+
+.swiper-slide {
+    font-size: 18px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.402);
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 40px 60px;
+}
+
+.parallax-bg {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 130%;
+    
+}
+
+.swiper-slide .title {
+    font-size: 41px;
+    font-weight: 300;
+}
+
+.swiper-slide .subtitle {
+    font-size: 21px;
+}
+
+.swiper-slide .text {
+    font-size: 14px;
+    max-width: 400px;
+    line-height: 1.3;
+}
